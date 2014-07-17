@@ -1,4 +1,4 @@
-A Caesar cipher.
+:speak_no_evil: A Caesar cipher.
 =======================
 
 I'm Eric Johnson, and this is my [JavaScript BDD assessment](http://www.learnhowtoprogram.com/lessons/javascript-bdd-assessment) for [Epicodus](http://www.epicodus.com/).
